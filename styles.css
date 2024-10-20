@@ -131,7 +131,7 @@ a {
 }
 
 img {
-  max-width: 100%;
+  max-width:auto;
   height: auto;
 }
 
@@ -414,7 +414,7 @@ img {
 
 /*==================== ABOUT ====================*/
 .about__img{
-  width: 350px;
+  width:auto;
   border-radius: .5rem;
   justify-self: center;
   align-self: center;
